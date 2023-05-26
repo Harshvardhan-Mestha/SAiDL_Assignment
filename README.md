@@ -17,3 +17,5 @@ https://paperswithcode.com/paper/disentangling-label-distribution-for-long
 https://learn.microsoft.com/en-us/windows/ai/windows-ml/tutorials/pytorch-train-model
 
 https://medium.com/@alitbk/image-classification-in-a-nutshell-5-different-modelling-approaches-in-pytorch-with-cifar100-8f690866b373
+
+https://towardsdatascience.com/softmax-and-uncertainty-c8450ea7e064
