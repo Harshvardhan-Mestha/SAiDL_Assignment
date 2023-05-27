@@ -19,3 +19,5 @@ https://learn.microsoft.com/en-us/windows/ai/windows-ml/tutorials/pytorch-train-
 https://medium.com/@alitbk/image-classification-in-a-nutshell-5-different-modelling-approaches-in-pytorch-with-cifar100-8f690866b373
 
 https://towardsdatascience.com/softmax-and-uncertainty-c8450ea7e064
+
+https://arxiv.org/pdf/2209.06862.pdf
