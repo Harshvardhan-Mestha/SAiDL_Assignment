@@ -2,22 +2,10 @@
 
 
 
-Paper/Resources relevant:
+- The final report for question 1, can be found [here](https://github.com/Harshvardhan-Mestha/SAiDL_Assignment/blob/main/saidl_final_report.pdf)
 
-https://arxiv.org/pdf/2011.11538.pdf
+- The folder [main_notebooks](https://github.com/Harshvardhan-Mestha/SAiDL_Assignment/tree/main/main_notebooks) contains all the Jupyter notebooks used to obtain the results in the final report.
 
-https://www.analyticsvidhya.com/blog/2021/04/introduction-to-softmax-for-neural-network/
+- The folder [misc_notebooks](https://github.com/Harshvardhan-Mestha/SAiDL_Assignment/tree/main/misc_notebooks) contains all the Jupyter notebooks used to build the models in the early stages, and learn the basics.
 
-https://developers.google.com/machine-learning/crash-course/multi-class-neural-networks/softmax
-
-https://www.turing.com/kb/softmax-multiclass-neural-networks
-
-https://paperswithcode.com/paper/disentangling-label-distribution-for-long
-
-https://learn.microsoft.com/en-us/windows/ai/windows-ml/tutorials/pytorch-train-model
-
-https://medium.com/@alitbk/image-classification-in-a-nutshell-5-different-modelling-approaches-in-pytorch-with-cifar100-8f690866b373
-
-https://towardsdatascience.com/softmax-and-uncertainty-c8450ea7e064
-
-https://arxiv.org/pdf/2209.06862.pdf
+- The folder [saidl_final_report](https://github.com/Harshvardhan-Mestha/SAiDL_Assignment/tree/main/misc_notebooks) contains the raw LaTeX files and the graphs/figures used in the final report.
