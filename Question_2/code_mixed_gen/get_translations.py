@@ -76,8 +76,8 @@ def get_trans(line):
         
         
 def save_trans(arr):
-        f_trans = open('/Users/harshvardhanmestha/Desktop/code_mixed_gen copy/hi-to-en-input_lang2', 'a')
-        f_align = open('/Users/harshvardhanmestha/Desktop/code_mixed_gen copy/hi-to-en-input_parallel_alignments', 'a')
+        f_trans = open('hi-to-en-input_lang2', 'a')
+        f_align = open('hi-to-en-input_parallel_alignments', 'a')
         if(len(arr[0])==0):
             f_trans.write('^')
             f_trans.write('\n')
@@ -102,7 +102,7 @@ i = 0
 
 
 
-for i in range(27,len(lines)):
+for i in range(1394,len(lines)):
     #print(lines[i])
     final = get_trans(str(lines[i]))
     save = save_trans(final)
