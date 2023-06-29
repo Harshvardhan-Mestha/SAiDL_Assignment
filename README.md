@@ -13,7 +13,7 @@
 ## Question 2 (NLP)
 - The final report for question 2, can be found [here](https://github.com/Harshvardhan-Mestha/SAiDL_Assignment/blob/main/saidl_final_report_q2.pdf)
 
-- The folder [code_mixed_gen](https://github.com/Harshvardhan-Mestha/SAiDL_Assignment/tree/main/Question_2/code_mixed_gen) contains all the code/scripts used to process data from GCM (running on a Ubuntu VM).
+- The folder [code_mixed_gen](https://github.com/Harshvardhan-Mestha/SAiDL_Assignment/tree/main/Question_2/code_mixed_gen) contains all the code/scripts used to process data from GCM (which runs on an Ubuntu VM) to create the dataset , and the scripts to calculate the CMI.
 
 - The folder [models](https://github.com/Harshvardhan-Mestha/SAiDL_Assignment/tree/main/Question_2/models) contains all the Jupyter notebooks used to run GLUECoS.
 

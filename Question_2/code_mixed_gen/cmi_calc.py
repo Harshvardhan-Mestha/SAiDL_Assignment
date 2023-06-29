@@ -1,7 +1,7 @@
 import nltk
 from nltk.tokenize import RegexpTokenizer
 
-f = open('cm.txt','r')
+f = open('cms.txt','r')
 
 lines = f.readlines()
 
@@ -25,18 +25,20 @@ for l in lines[1:]:
     cmi = 100*(1-(w/(n-u)))
     print(cmi)
     if(cmi>=50):
-        m50.write(str(str(lines[0].strip())+"    "+str(l.strip())+"\n"))
+        m50.write(str(l.strip())+"\n")
     else:
-        l50.write(str(str(lines[0].strip())+"    "+str(l.strip())+"\n"))
+        l50.write(str(l.strip())+"\n")
 
 l50.close()
 m50.close()
     
-
-f1 = open('cm_all.txt','w')
-
-for l in lines:
-    f1.write(str(lines[0].strip())+"\t"+str(l.strip())+"\n")
+# f1 = open('train','w')
+# key = 0
+# for i in range(0,len(lines)):
+#     ind = find_cmi(lines[i])
+#     if ind == 100:
+#         key = i
+#     f1.write(str(lines[key].strip())+"\t"+str(lines[i].strip())+"\n")
 
 
 
