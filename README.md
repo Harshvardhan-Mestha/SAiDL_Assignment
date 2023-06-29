@@ -19,7 +19,7 @@
 
 - The folder [final_dataset](https://github.com/Harshvardhan-Mestha/SAiDL_Assignment/tree/main/Question_2/final_dataset) contains the synthetic code-mixed dataset from HASOC-2019-Hindi.
 
-- The folder [saidl_final_report_q2](https://github.com/Harshvardhan-Mestha/SAiDL_Assignment/tree/main/Question_2/final_dataset) contains the raw LaTeX files used in the final report.
+- The folder [saidl_final_report_q2](https://github.com/Harshvardhan-Mestha/SAiDL_Assignment/tree/main/Question_2/saidl_final_report_q2) contains the raw LaTeX files used in the final report.
 
 ## Question 2 (CV) -> Not finished
 All relevant code can be found [here](https://github.com/Harshvardhan-Mestha/SAiDL_Assignment/tree/main/Question_2/cv)
